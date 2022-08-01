@@ -1,5 +1,8 @@
-# module6.github.io
+ [module6.github.io](https://lamnong.github.io/module6.github.io/)
 
+ GitHub Link: <https://github.com/lamnong/module6.github.io>
+
+# Server-Side APIs Challenge: Weather Dashboard
 
 User Story
 
@@ -20,3 +23,4 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+![](assets/Screen%20Shot%202022-08-01%20at%203.24.44%20PM.png)
